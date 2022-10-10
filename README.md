@@ -1,1 +1,1 @@
-ALX SE Devops
+This repository contains solutions to shell tasks
